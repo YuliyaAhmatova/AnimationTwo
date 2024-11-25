@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimationTwo</string>
+    <string name="title">Магазин</string>
+    <string name="start_shop">Начать покупки</string>
+    <string name="name">Название</string>
+    <string name="cost">Цена</string>
+    <string name="exit">Exit</string>
+    <string name="thanks">Спасибо за покупку!</string>
+</resources>
